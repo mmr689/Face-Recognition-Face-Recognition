@@ -31,6 +31,13 @@ Once we have trained our face recognition object. All we need to do is pass othe
 
 ## Scripts
 
+### Dependencies
+
+python==3.11.0
+
+face-recognition==1.3.0
+opencv-contrib-python==4.7.0.72
+
 ### main.py
 
 Basic script that allows you to
