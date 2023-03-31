@@ -26,6 +26,7 @@ In the following image, we can see how the detector finds Michael Scott's face.
 Once we have trained our face recognition object. All we need to do is pass other photos, find the faces in them and see the confidence between the example face and the current face.
 
 | ![Test 1 photo](https://github.com/mmr689/Face-Recognition-Face-Recognition/blob/main/results/test1.png) | ![Test 2 photo](https://github.com/mmr689/Face-Recognition-Face-Recognition/blob/main/results/test2.png) |
+| --- | --- |
 
 ## Scripts
 
