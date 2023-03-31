@@ -13,6 +13,7 @@ With this library we can do the following:
 ## How does it work?
 
 **1. Train**
+
 We introduce an image to train the model and perform two steps.
 1. Find the face in the photo.
 2. Apply a model to extract the features of the face. By default, the model used to extract the facial features is the computer vision descriptor known as HOG, (Histogram of Oriented Gradients). However, the library also allows us to use a CNN model too. In this second case, it is recommended to have a GPU to run it.
