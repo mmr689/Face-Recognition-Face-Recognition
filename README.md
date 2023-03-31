@@ -18,7 +18,7 @@ We introduce an image to train the model and perform two steps.
 1. Find the face in the photo.
 2. Apply a model to extract the features of the face. By default, the model used to extract the facial features is the computer vision descriptor known as HOG, (Histogram of Oriented Gradients). However, the library also allows us to use a CNN model too. In this second case, it is recommended to have a GPU to run it.
 
-In the following image, we can see how the detector finds Michael Scott's face.
+In the following image, we can see how the detector finds Michael Scott's face and extract his face features.
 
 ![Training photo](https://github.com/mmr689/Face-Recognition-Face-Recognition/blob/main/results/train.png)
 
