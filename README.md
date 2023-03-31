@@ -20,7 +20,6 @@ We introduce an image to train the model and perform two steps.
 In the following image, we can see how the detector finds Michael Scott's face.
 
 |![Training photo](https://github.com/mmr689/Face-Recognition-Face-Recognition/blob/main/results/train.png)|
-| --- |
 
 **2. Test**
 
