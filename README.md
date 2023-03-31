@@ -18,3 +18,7 @@ Basic script that allows you to
 
 1. Upload a training photo and a set of test photos to recognise the trained face.
 2. Use the computer camera to recognise faces. First we take a photo to define our face, then we take another photo and the program says if the training face is in the photo or not.
+
+
+
+![Training photo](https://github.com/mmr689/Face-Recognition-Face-Recognition/blob/main/results/train.png)
